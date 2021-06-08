@@ -1,10 +1,17 @@
 <h1>Hi there! 👋</h1>
 
-- 👋 Hi, I’m @jorgegranja
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+##################################################################
+################## UNDER CONSTRUCTION ############################
+##################################################################
+
+- 👋 Hi, I’m Jorge Granja a recent Data Anaytics Masters graduate!
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning adittional Machine Learning resources, 
+     and actively looking for jobs or internships!
+- 💞️ I’m looking to collaborate on any project
+- 📫 Please reach out to me at jorge.granja.a@gmail.com
+
 
 <!---
 jorgegranja/jorgegranja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
