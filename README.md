@@ -1,16 +1,13 @@
-<h1>Hi there! 👋</h1>
+<h1>Hi this is Jorge! 👋</h1>
 
+I'm a Business Analyst and a recent Data Anaytics Masters graduate with 
+a strong passiong for data, creating solutions and meeting new people!
 
-##################################################################<br/>
-################## UNDER CONSTRUCTION ############################<br/>
-##################################################################<br/>
+Currently learning adittional Machine Learning resources, 
+and actively looking for jobs or internships! 🌱 
 
-- 👋 Hi, I’m Jorge Granja a recent Data Anaytics Masters graduate!
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning adittional Machine Learning resources, 
-     and actively looking for jobs or internships!
-- 💞️ I’m looking to collaborate on any project
-- 📫 Please reach out to me at jorge.granja.a@gmail.com
+📫 Please reach out to me by email jorge.granja.a@gmail.com
+   or on LinkedIn: linkedin.com/in/jorge-granja/
 
 
 <!---
