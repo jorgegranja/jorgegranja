@@ -4,10 +4,9 @@ I'm a <strong>Business Analyst</strong> and a recent Data Anaytics Masters gradu
 with a strong passiong for <strong>data</strong>, creating solutions and meeting <br/>
 new people!
 
-Currently learning adittional Machine Learning resources, 
-and actively looking for <strong>jobs or internships!</strong> 🌱 
+Currently learning adittional Machine Learning resources, and actively<br/> looking for <strong>jobs or internships!</strong> 🌱 
 
-<h2>📫 Please <strong>reach out</strong> to me:<h2/>
+<h2>📫 Please <strong>reach out</strong> to me:</h2><br/>
 
 - By email: jorge.granja.a@gmail.com
 - LinkedIn: linkedin.com/in/jorge-granja/
