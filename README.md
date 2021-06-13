@@ -1,4 +1,4 @@
-<br/><h1>Hi this is Jorge! 👋</h1>
+<h1>Hi, this is Jorge! 👋</h1>
 
 I'm a <strong>Business Analyst</strong> and a recent Data Anaytics Masters graduate<br/> 
 with a strong passiong for <strong>data</strong>, creating solutions and meeting <br/>
