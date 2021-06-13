@@ -3,7 +3,7 @@
 <h3>About me</h3>
 I'm a <strong>Business Analyst</strong> and a recent Data Anaytics Masters graduate<br/> 
 with a strong passiong for <strong>data</strong>, creating solutions and meeting <br/>
-new people!<br/>
+new people!<br/><br/>
 
 Currently learning adittional Machine Learning skiils, and actively<br/> 
 looking for <strong>jobs or internships!</strong> 🌱<br/> 
