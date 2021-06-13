@@ -4,7 +4,7 @@ I'm a <strong>Business Analyst</strong> and a recent Data Anaytics Masters gradu
 with a strong passiong for <strong>data</strong>, creating solutions and meeting <br/>
 new people!
 
-Currently learning adittional Machine Learning resources, and actively<br/> looking for <strong>jobs or internships!</strong><br/> 🌱 
+Currently learning adittional Machine Learning resources, and actively<br/> looking for <strong>jobs or internships!</strong> 🌱<br/> 
 
 <h2>📫 Please <strong>reach out</strong> to me:</h2>
 
