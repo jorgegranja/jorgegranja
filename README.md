@@ -1,7 +1,7 @@
 <h2>Hi, this is Jorge! 👋</h2>
 
 <h3>About me</h3>
-I'm a <strong>Business Analyst</strong> and a recent Data Anaytics Masters graduate<br/> 
+I'm a <strong>experienced Data Analyst</strong> and a Data Anaytics Masters graduate<br/> 
 with a strong passiong for <strong>data</strong>, creating solutions and meeting <br/>
 new people!<br/><br/>
 
